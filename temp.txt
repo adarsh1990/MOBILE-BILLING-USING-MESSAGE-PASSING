@@ -1,0 +1,15 @@
+
+name=!!!!!!!
+address=H@@@@@
+number=9999991987
+type=1
+balance=0.000000
+timer=0.000000
+recharge=0
+validuser=0
+city=!!!!!!!!!!!
+state=!!!!!!!!!!!
+nationality=!!!!!!!!!!!
+pincode=0
+gender=!
+dob=<þ\
